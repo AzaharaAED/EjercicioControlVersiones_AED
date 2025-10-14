@@ -22,5 +22,7 @@ area<-(b*a)/2
 #Area circulo
 r<- 3
 area_circulo<- pi*r^2
-```
+
 area_circulo^2
+```
+
