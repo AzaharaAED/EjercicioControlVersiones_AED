@@ -26,3 +26,16 @@ area_circulo<- pi*r^2
 area_circulo^2
 ```
 
+```{r}
+D <- 10
+d <- 6
+base <- 8
+altura <- 5
+area_rombo <- (D * d) / 2
+area_rectangulo <- base * altura
+```
+```{r}
+source('Perim.R')
+PerimetroCuadrado(7)
+```
+
