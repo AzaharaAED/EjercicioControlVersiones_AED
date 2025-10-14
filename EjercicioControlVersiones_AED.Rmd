@@ -18,3 +18,9 @@ a=500
 area<-(b*a)/2
 ```
 
+```{r}
+#Area circulo
+r<- 3
+area_circulo<- pi*r^2
+```
+
