@@ -1,0 +1,20 @@
+---
+title: "EjercicioControlVersiones_AED"
+author: "Azahara Martinez"
+date: "2025-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Area de triangulo
+
+b=300
+a=500
+
+area<-(b*a)/2
+```
+
