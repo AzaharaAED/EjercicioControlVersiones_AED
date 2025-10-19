@@ -44,5 +44,13 @@ PerimetroCuadrado(7)
 ```
 
 Area del trapecio
+```{r}
+M=2
+m=3
+H=5
+
+A_trapecio<-((M+m)*H)/2
+print(A_trapecio)
+```
 
 
