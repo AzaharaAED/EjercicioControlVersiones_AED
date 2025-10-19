@@ -36,9 +36,25 @@ area_rectangulo <- base * altura
 ```
 ```{r}
 source('Perim.R')
+<<<<<<< HEAD
 AreaCuadrado(7)
+=======
+PerimetroCuadrado(7)
+>>>>>>> Perimetro
 ```
 
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+>>>>>>> Perimetro
