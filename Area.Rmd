@@ -1,0 +1,44 @@
+---
+title: "EjercicioControlVersiones_AED"
+author: "Azahara Martinez"
+date: "2025-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Area de triangulo
+
+b=300
+a=500
+
+area<-(b*a)/2
+```
+
+```{r}
+#Area circulo
+r<- 3
+area_circulo<- pi*r^2
+
+area_circulo^2
+```
+
+```{r}
+D <- 10
+d <- 6
+base <- 8
+altura <- 5
+area_rombo <- (D * d) / 2
+area_rectangulo <- base * altura
+```
+```{r}
+source('Perim.R')
+PerimetroCuadrado(7)
+```
+
+
+
+
